@@ -1,0 +1,8 @@
+[functions.login]
+verify_jwt = false
+[functions.board]
+verify_jwt = false
+[functions.submit-revenue]
+verify_jwt = false
+[functions.set-target]
+verify_jwt = false
